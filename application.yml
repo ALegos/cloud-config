@@ -1,2 +1,2 @@
-env.prefix: DEFAULT
+env.prefix: DEFAULT-DEV
 app.name: educational-app
