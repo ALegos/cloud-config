@@ -10,7 +10,7 @@ security:
       jwt:
         key-pair:
           alias: jwt-oh
-          store-password: jwtohpassword
+          store-password: "{cipher}AgA0bZxA4QYLCmzaeMYN8+gjTmg+EpySqbhk9ppQ+tSndOYAAlbq6bQ8Fj4YWFjAszws4uChf7rHz4jJiFTBHA1OmZQNNKea8ZEiYimUrgZDoTNc0kXqC5XJ/E0i3JOiyTxhlTh2An4qSs6RxrsisMAA7jbzYbfXTKlPefFQuaS0v9MlyZ84AqyGlDL/B8lBxW65mQo6A2MO+RhlpZmfUtIMzLrINEP0hBzzu6W2mhTzvLikgZrPf45pzVfu67osW0S392vcfUftOr7H4b3rzn7BbsJePtziHSKSi032X2nX7kvzFm3fy6wduQWVWBvXq4ew+A343bNTqCgxgbweov2NLmVUhMkYCbMqybukC1/jhAN4O2D67DpNZ6oej61E21ke5SmWT+5yZ3jCjkfPx8tf1+PrmTVVxepB7+0R8nBOD/nb0cVR27B3qiswGnv+TDFxt3JEett3XYQCD5J5VtAbWv7k97xXSitn9owReLWPyZkUJCflPl6JpWiXBmBAd2H+yZsMvQbXMU4yDWThlrBng4DOHck+/gh/5HmY0f7PmR/dkf7nEau8QWTO82HBqzh0mKpWuH40+xDtcbGwTMKK9y6721i3BAnwqddcpYn0cBF96Ntq2JLDSkLe5rUhiPoEqi13DXFU8YTRnHwjNhe50nLxC329RydWmUdOMSF1AyCQBF1CWpPp/iGnnDelSvSkPFRFNQxU2QHTEGkYkYRU"
           path: "jwt-oh.jks"
 logging:
   level:
